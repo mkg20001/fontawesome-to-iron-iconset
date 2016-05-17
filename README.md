@@ -9,7 +9,7 @@ The script will download font-awesome from https://www.bootstrapcdn.com/fontawes
 
 The icons will be available as ```fa:*``` (without ```fa-``` prefix)
 
-# Exmaple
+# Example
 ```
 <link rel="import" href="/path/to/fa.html">
 <iron-icon icon="fa:shield"></iron-icon>
